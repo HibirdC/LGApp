@@ -1,12 +1,15 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/login/login",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "backgroundColor":"#fff",
+    "navigationBarBackgroundColor": "#444",
+    "navigationBarTitleText": "智能巡检",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":false
   }
 }

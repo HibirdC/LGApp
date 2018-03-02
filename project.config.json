@@ -10,8 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.91",
 	"appid": "wxf56f3b8dbca9bfee",
-	"projectname": "LGApp",
-	"isGameTourist": false,
+	"projectname": "cnode",
 	"condition": {
 		"search": {
 			"current": -1,
